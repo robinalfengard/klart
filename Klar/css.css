@@ -1,0 +1,42 @@
+.h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.status{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color:rgb(217, 217, 217);
+}
+ html{
+    font-size: 20px;
+ }
+ .error{
+    color: red;
+ }
+ .button{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+ }
+.accountCreation{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.errorMessage{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    font: 35px;
+}
+.toggle-password{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+
